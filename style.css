@@ -1,0 +1,16 @@
+section.hero {
+    background-image: url("white-marble.jpg");
+    background-size: cover;
+}
+
+p {
+    font-family: 'Cabin', sans-serif;
+}
+
+a {
+    color: #f4a261;
+}
+
+div.content {
+    height: 20vh;
+}
